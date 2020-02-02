@@ -14,6 +14,8 @@ Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandr
 
 3. Screenshot de la ejecución del programa en Scala filtrando los datos elegidos:
 
+    https://github.com/alopez1062/PracticaBDProcessing/blob/master/ScreenshotEjecutionScalaFile.png
+
 4. Fichero con el código fuente en Scala:
 
 5. Guía de instalación y configuración de Apache Zeppelin:
