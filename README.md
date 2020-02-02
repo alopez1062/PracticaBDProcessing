@@ -22,6 +22,8 @@ Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandr
 
 5. Guía de instalación y configuración de Apache Zeppelin:
 
+    https://github.com/alopez1062/PracticaBDProcessing/blob/master/Instalación_Zeppelin_MVDebian.pdf
+
 6. Screenshot ejecución del notebook en Zeppelin:
 
 7. Fichero con el código fuente del notebook de Zeppelin:
