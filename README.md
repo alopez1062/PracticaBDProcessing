@@ -29,3 +29,5 @@ Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandr
     https://github.com/alopez1062/PracticaBDProcessing/blob/master/ScreenshotZeppelinExecution.png
 
 7. Fichero con el código fuente del notebook de Zeppelin:
+
+    https://github.com/alopez1062/PracticaBDProcessing/blob/master/ZeppelinCodeFile.json
