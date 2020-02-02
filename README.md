@@ -14,7 +14,7 @@ Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandr
 
 3. Screenshot de la ejecución del programa en Scala filtrando los datos elegidos:
 
-    https://github.com/alopez1062/PracticaBDProcessing/blob/master/ScreenshotEjecutionScalaFile.png
+    https://github.com/alopez1062/PracticaBDProcessing/blob/master/ScreenshotExecutionScalaFile.png
 
 4. Fichero con el código fuente en Scala:
 
@@ -25,5 +25,7 @@ Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandr
     https://github.com/alopez1062/PracticaBDProcessing/blob/master/Instalación_Zeppelin_MVDebian.pdf
 
 6. Screenshot ejecución del notebook en Zeppelin:
+
+    https://github.com/alopez1062/PracticaBDProcessing/blob/master/ScreenshotZeppelinExecution.png
 
 7. Fichero con el código fuente del notebook de Zeppelin:
