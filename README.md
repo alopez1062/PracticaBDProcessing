@@ -1,5 +1,5 @@
 # PracticaBDProcessing
-Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. *Alejandro López Sánchez*.
+Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandro López Sánchez**.
 
 1. Enunciado de la práctica:
 
