@@ -7,6 +7,11 @@ Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandr
 
 2. Screenshot kakfa-console-producer.sh y kafka-console-consumer.sh para comprobar que funciona correctamente:
 
+    https://github.com/alopez1062/PracticaBDProcessing/blob/master/ScreenshotTestConsoleProducerAndConsumer.png
+    
+   Hemos tenido que manipular el fichero JSON original, quitando los corchetes y dejando cada objeto en una línea para evitar
+   problemas de formato en la lectura con Scala.
+
 3. Screenshot de la ejecución del programa en Scala filtrando los datos elegidos:
 
 4. Fichero con el código fuente en Scala:
