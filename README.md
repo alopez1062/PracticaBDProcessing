@@ -32,5 +32,3 @@ Resolución práctica big-data-processing. Bootcamp BD-ML Keepcoding. **Alejandr
 
     https://github.com/alopez1062/PracticaBDProcessing/blob/master/SourceCodeFiles/ZeppelinCodeFile.json
     
-    Screenshots/ScreenshotExecutionScalaFile.png
-    
